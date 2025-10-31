@@ -1,0 +1,5 @@
+telethon
+python-dotenv
+openai>=1.0.0
+fastapi
+uvicorn
